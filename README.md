@@ -1,5 +1,5 @@
 # Amazing
-<h1>This project is an e-commerce website built using React, MongoDB, and PayPal payment integration.<h1>
+<h1>This project is an e-commerce website built using React, MongoDB, and PayPal payment integration.</h1>
   This includes,
 Adding Bootstrap
 Creating Product and Cart components
